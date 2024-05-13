@@ -7,6 +7,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Services", "Services", "{78
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Catalog.API", "Services\Catalog.API\Catalog.API.csproj", "{4A52B422-DDA7-45DB-B37A-32E773546919}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Busket.API", "Services\Busket.API\Busket.API.csproj", "{1E60DC14-B11B-4A8D-9F21-0196DE8C7FC0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,12 +19,17 @@ Global
 		{4A52B422-DDA7-45DB-B37A-32E773546919}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4A52B422-DDA7-45DB-B37A-32E773546919}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4A52B422-DDA7-45DB-B37A-32E773546919}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E60DC14-B11B-4A8D-9F21-0196DE8C7FC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E60DC14-B11B-4A8D-9F21-0196DE8C7FC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E60DC14-B11B-4A8D-9F21-0196DE8C7FC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E60DC14-B11B-4A8D-9F21-0196DE8C7FC0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{4A52B422-DDA7-45DB-B37A-32E773546919} = {7890EDFF-7132-41B7-A1D2-61B0FC0EF005}
+		{1E60DC14-B11B-4A8D-9F21-0196DE8C7FC0} = {7890EDFF-7132-41B7-A1D2-61B0FC0EF005}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {CCD11CCA-EC80-4F6B-9215-C5C33B2B9920}
