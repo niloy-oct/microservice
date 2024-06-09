@@ -10,3 +10,15 @@ The application is built using the principles of Clean Architecture, which empha
 
 Conclusion
 This microservice application demonstrates the use of various .NET technologies and frameworks commonly used in microservices architecture. It provides a practical and hands-on approach to learning microservices architecture, which is essential for developers who want to implement microservices in their own projects.
+
+
+
+## Tech Stack
+niloy-oct/microservice is built on the following main stack:
+
+- <img width='25' height='25' src='https://img.stackshare.io/service/1015/1200px-C_Sharp_wordmark.svg.png' alt='C#'/> [C#](http://csharp.net) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/1451/SR2hUhQN.png' alt='Visual Studio'/> [Visual Studio](http://msdn.microsoft.com/en-us/vstudio/aa718325.aspx) – Integrated Development Environment
+
+Full tech stack [here](/techstack.md)
+
+
